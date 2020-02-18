@@ -1,2 +1,2 @@
 # SeleniumAutomation
-Effective Automation and Manual Testing
+UI Automation
