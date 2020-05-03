@@ -1,6 +1,5 @@
-### TestRail Run Result Inegration with python 
-Why :  
-In most automated checks, we are able to judge the outcome as ‘pass’ or ‘fail’ by comparing the expected result to the actual result. Tracking, reporting and sharing the test results is important.
+### TestRail Run Result Inegration with python   <br>
+In most automated checks, we are able to judge the outcome as ‘pass’ or ‘fail’ by comparing the expected result to the actual result. Tracking, reporting and sharing the test results is important.   
 --------------------------------------
 Steps
 ------------------------------------
@@ -11,7 +10,6 @@ Steps
 5. Modify your test script to report to TestRail
 
 ### JIRA Inegration with python    
-Why :    
 In most automated checks, we are able to judge the outcome as ‘pass’ or ‘fail’ by comparing the expected result to the actual result. raising the the defect is tedious task .   
 --------------------------------------   
 Steps  
